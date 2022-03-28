@@ -3,6 +3,7 @@ This is a test project with no explicit win condition.
 
 ## Gameplay
 Player shoots the spheres randomly spawned in certain volume. 
+Video is available [here](https://youtu.be/vUSR7Qbykts).
 
 ## Default game rules:
 - Spheres are spawned in waves.
